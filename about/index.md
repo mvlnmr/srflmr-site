@@ -37,4 +37,4 @@ comments: false
 
  ---
 
-<center> Made with <font color="red">♥</font> by isrofilamar Powered by <a href="http://jekyllrb.com"><b>Jekyll</b></a> Theme <a href="https://taylantatli.github.io/Moon/"><b>Moon</b></a></center>
+<center> Made with <font color="red">♥</font> by isrofilamar | Powered by <a href="http://jekyllrb.com"><b>Jekyll</b></a> Theme <a href="https://taylantatli.github.io/Moon/"><b>Moon</b></a></center>

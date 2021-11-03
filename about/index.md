@@ -14,7 +14,7 @@ comments: false
 ## Blog (Cencored Version)
 
 
-<center><a href="https://blog.srflmr.my.id" class="btn btn-info">Kunjungi Blog</a></center>
+<center><a href="https://blog.srflmr.my.id" class="btn zoombtn btn-info"><p>Kunjungi Blog</p></a></center>
 <br>
 
 * Konten berupa tulisan pribadi.
@@ -26,7 +26,7 @@ comments: false
 ## Draft (Unencored Version)
 
 
-<center><a href="https://draft.srflmr.my.id" class="btn btn-warning">Kunjungi Draft</a></center>
+<center><a href="https://draft.srflmr.my.id" class="btn zoombtn btn-warning"><p>Kunjungi Draft</p></a></center>
 <br>
 
 * Konten berupa tulisan pribadi.

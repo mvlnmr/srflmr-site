@@ -7,7 +7,7 @@ comments: false
 ---
     
 <center>
-<a href="https://www.srflmr.my.id"><b>#srlmr-project</b></a> merupakan sebuah project personal blog biasa yang terdiri dari 2 versi.
+<a href="http://srflmr.my.id"><b>#srlmr-project</b></a> merupakan sebuah project personal blog biasa yang terdiri dari 2 versi.
 </center>
 <br>
 

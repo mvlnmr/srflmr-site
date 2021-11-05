@@ -1,11 +1,16 @@
 ---
+title: "/#srflmr-project"
+date: 2021-11-03 00:00:00 Z
 layout: page
-title: /#srflmr-project
-tags: [about, srflmr, project, blog, site]
-date: 2021-11-3
+tags:
+- about
+- srflmr
+- project
+- blog
+- site
 comments: false
 ---
-    
+
 <center>
 <a href="https://srflmr.my.id"><b>#srlmr-project</b></a> merupakan sebuah project personal blog biasa yang terdiri dari 2 versi.
 </center>
